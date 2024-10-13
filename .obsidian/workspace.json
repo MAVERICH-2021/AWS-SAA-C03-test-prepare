@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "cf204c14dfa2b2bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2ada044d77e671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ce7f0ad4ecec22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "baec2f55e02b8e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1636f74f4ca98d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b12b925c66d241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb9b67e85642d33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7865bef36a654111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cf52bddf35e9772",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "6ae11c0d013f597f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6582647f3bd067a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109b9e65298425d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAIN.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2873f69e0c070874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAIN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4968d8a0d0c6c098",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62451acc71ae1d03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAIN.md"
+              }
+            }
+          },
+          {
+            "id": "b61a77b3e8f5920a",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "9fb9b67e85642d33",
+  "lastOpenFiles": [
+    "Amazon Athen.md",
+    "MAIN.md",
+    "AWS Glue.md",
+    "S3 Transfer Acceleration.md",
+    "_storage/img",
+    "_storage",
+    "LibGrow/ステージ２ー MVPの完成.md",
+    "_storage/key/Git.md",
+    "_storage/key/keys.md",
+    "_storage/key/AWS.md",
+    "_storage/key",
+    "LibGrow/step-by-step/0.login + book list.md",
+    "LibGrow/step-by-step/_chatgpt-chat-history.md",
+    "LibGrow/step-by-step",
+    "LibGrow/libs/NPL key info extract.md",
+    "LibGrow/libs/Japanese words analysis.md",
+    "LibGrow/libs",
+    "Reading/猜想与反驳.md",
+    "_storage/Memo/obsidian.md",
+    "_storage/Memo/Google search.md",
+    "_storage/Memo/Git.md",
+    "_storage/Memo",
+    "_backup/v0.1/Spring/Java/IO/File/Excel 导出.md",
+    "_backup/v0.1/Spring/Java/IO/File/Excel导出效率.md",
+    "_backup/v0.1/Golang/io/os/read file.md",
+    "_backup/v0.1/Spring/Java/IO/File",
+    "_backup/v0.1/Golang/io/os",
+    "_backup/v0.1/Golang/AWS SDK/AWS SDK for Golang.md",
+    "_backup/v0.1/Golang/go-zero/goctl.md",
+    "_backup/v0.1/日本国/N! passport/2017-7.md",
+    "_backup/v0.1/Golang/format/JSON.md",
+    "_backup/v0.1/Golang/config/Config - go.md",
+    "_backup/v0.1/Golang/cmd/user & prompt IO.md",
+    "_backup/v0.1/Spring/Java/memo.md",
+    "_backup/v0.1/Spring/Java/IO",
+    "_backup/v0.1/Golang/io",
+    "_storage/img/Pasted image 20240905212304.png",
+    "_storage/img/Pasted image 20240905203904.png",
+    "_storage/img/apple_support.png",
+    "_storage/img/Pasted image 20240905071602.png",
+    "_storage/img/Pasted image 20240826095239.png",
+    "_storage/img/Pasted image 20240826095239.jpg",
+    "_storage/img/Pasted image 20240826095022.png",
+    "_storage/img/Pasted image 20240826095022.jpg",
+    "_storage/img/Pasted image 20240826094639.png",
+    "_storage/img/Pasted image 20240826094639.jpg"
+  ]
+}
