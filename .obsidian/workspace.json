@@ -22,12 +22,48 @@
             }
           },
           {
+            "id": "3a4ccfb74f927dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon EMR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "06787a0ec4242872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Amazon AppFlow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89f1deb283afd9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Glue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41438b8b7c60ea5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3 Glacier Flexible Retrieval.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6ae11c0d013f597f",
@@ -151,11 +188,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +207,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "49ce7f0ad4ecec22",
+  "active": "62451acc71ae1d03",
   "lastOpenFiles": [
-    "Amazon AppFlow.md",
+    "ALB & NLB.md",
     "MAIN.md",
-    "Amazon Athen.md",
+    "Amazon EMR.md",
     "AWS Glue.md",
+    "S3 Glacier Flexible Retrieval.md",
+    "Amazon AppFlow.md",
+    "Amazon Athen.md",
     "S3 Transfer Acceleration.md",
     "_storage/img",
     "_storage",
@@ -201,9 +243,6 @@
     "_backup/v0.1/Golang/AWS SDK/AWS SDK for Golang.md",
     "_backup/v0.1/Golang/go-zero/goctl.md",
     "_backup/v0.1/日本国/N! passport/2017-7.md",
-    "_backup/v0.1/Golang/format/JSON.md",
-    "_backup/v0.1/Golang/config/Config - go.md",
-    "_backup/v0.1/Golang/cmd/user & prompt IO.md",
     "_backup/v0.1/Spring/Java/IO",
     "_backup/v0.1/Golang/io",
     "_storage/img/Pasted image 20240905212304.png",
