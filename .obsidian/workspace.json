@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-100.md",
+                "file": "SAA 1-100.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101-200.md",
+                "file": "SAA 101-200.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb5ef4b86e0d2fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NAT and NAT Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6ae11c0d013f597f",
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101-200.md",
+                "file": "SAA 101-200.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101-200.md",
+                "file": "SAA 101-200.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101-200.md"
+                "file": "SAA 101-200.md"
               }
             }
           },
@@ -221,8 +234,10 @@
   },
   "active": "2a9caba209f9680b",
   "lastOpenFiles": [
-    "1-100.md",
-    "101-200.md",
+    "NAT and NAT Gateway.md",
+    "SAA 101-200.md",
+    "SAA 1-100.md",
+    "Dev 1-100.md",
     "ALB & NLB.md",
     "Amazon EMR.md",
     "AWS Glue.md",
@@ -253,8 +268,6 @@
     "_backup/v0.1/Golang/io/os/read file.md",
     "_backup/v0.1/Spring/Java/IO/File",
     "_backup/v0.1/Golang/io/os",
-    "_backup/v0.1/Golang/AWS SDK/AWS SDK for Golang.md",
-    "_backup/v0.1/Golang/go-zero/goctl.md",
     "_backup/v0.1/Spring/Java/IO",
     "_backup/v0.1/Golang/io",
     "_storage/img/Pasted image 20240905212304.png",
