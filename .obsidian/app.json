@@ -2,5 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "_storage/img"
+  "attachmentFolderPath": "_storage/img",
+  "showLineNumber": true
 }
