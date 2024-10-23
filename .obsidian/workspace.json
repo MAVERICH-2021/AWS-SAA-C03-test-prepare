@@ -40,22 +40,9 @@
             }
           },
           {
-            "id": "2a3d2a6812dacad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon QuickSight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazon QuickSight"
-            }
-          },
-          {
             "id": "94a9c1529416aa9e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,12 +50,55 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "SAA 981 - 900"
             }
+          },
+          {
+            "id": "7a386504a3f42f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIF"
+            }
+          },
+          {
+            "id": "9ed9add863ba8c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Batch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Batch"
+            }
+          },
+          {
+            "id": "a80a39ddeba9a19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Outposts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Outposts"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,9 +253,18 @@
   },
   "active": "94a9c1529416aa9e",
   "lastOpenFiles": [
-    "Amazon QuickSight.md",
-    "SAA 101-200.md",
+    "VIF.md",
     "SAA 981 - 900.md",
+    "AWS Transit Gateway.md",
+    "AWS App2Container.md",
+    "AWS Batch.md",
+    "AWS Outposts.md",
+    "Amazon QuickSight.md",
+    "_storage/img/Pasted image 20241021171356.png",
+    "_storage/img/Pasted image 20241021171349.png",
+    "_storage/img",
+    "_storage",
+    "SAA 101-200.md",
     "Untitled.md",
     "Amazon EMR.md",
     "Amazon AppFlow.md",
@@ -239,21 +278,14 @@
     "ALB & NLB.md",
     "Amazon Athen.md",
     "S3 Transfer Acceleration.md",
-    "_storage/img",
-    "_storage",
     "LibGrow/ステージ２ー MVPの完成.md",
     "_storage/key/Git.md",
     "_storage/key/keys.md",
     "_storage/key/AWS.md",
     "_storage/key",
     "LibGrow/step-by-step/0.login + book list.md",
-    "LibGrow/step-by-step/_chatgpt-chat-history.md",
     "LibGrow/step-by-step",
-    "LibGrow/libs/NPL key info extract.md",
-    "LibGrow/libs/Japanese words analysis.md",
     "LibGrow/libs",
-    "Reading/猜想与反驳.md",
-    "_storage/Memo/obsidian.md",
     "_storage/Memo",
     "_backup/v0.1/Spring/Java/IO/File",
     "_backup/v0.1/Golang/io/os",
@@ -266,8 +298,6 @@
     "_storage/img/Pasted image 20240826095239.png",
     "_storage/img/Pasted image 20240826095239.jpg",
     "_storage/img/Pasted image 20240826095022.png",
-    "_storage/img/Pasted image 20240826095022.jpg",
-    "_storage/img/Pasted image 20240826094639.png",
-    "_storage/img/Pasted image 20240826094639.jpg"
+    "_storage/img/Pasted image 20240826095022.jpg"
   ]
 }
