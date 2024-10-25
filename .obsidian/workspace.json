@@ -56,49 +56,35 @@
             }
           },
           {
-            "id": "7a386504a3f42f3d",
+            "id": "25f9d4566fcf1c45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIF.md",
+                "file": "SAA 350 - 500.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIF"
+              "title": "SAA 350 - 500"
             }
           },
           {
-            "id": "9ed9add863ba8c29",
+            "id": "5da1a8db503f1f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Batch.md",
+                "file": "RDS Custom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Batch"
-            }
-          },
-          {
-            "id": "a80a39ddeba9a19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Outposts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Outposts"
+              "title": "RDS Custom"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,14 +237,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "94a9c1529416aa9e",
+  "active": "25f9d4566fcf1c45",
   "lastOpenFiles": [
-    "VIF.md",
+    "AWS Step Functions.md",
+    "_storage/img/Pasted image 20241025175802.png",
+    "SAA 350 - 500.md",
+    "RDS Custom.md",
     "SAA 981 - 900.md",
+    "AWS Outposts.md",
+    "AWS Batch.md",
+    "VIF.md",
     "AWS Transit Gateway.md",
     "AWS App2Container.md",
-    "AWS Batch.md",
-    "AWS Outposts.md",
     "Amazon QuickSight.md",
     "_storage/img/Pasted image 20241021171356.png",
     "_storage/img/Pasted image 20241021171349.png",
@@ -279,11 +269,7 @@
     "Amazon Athen.md",
     "S3 Transfer Acceleration.md",
     "LibGrow/ステージ２ー MVPの完成.md",
-    "_storage/key/Git.md",
-    "_storage/key/keys.md",
-    "_storage/key/AWS.md",
     "_storage/key",
-    "LibGrow/step-by-step/0.login + book list.md",
     "LibGrow/step-by-step",
     "LibGrow/libs",
     "_storage/Memo",
@@ -297,7 +283,6 @@
     "_storage/img/Pasted image 20240905071602.png",
     "_storage/img/Pasted image 20240826095239.png",
     "_storage/img/Pasted image 20240826095239.jpg",
-    "_storage/img/Pasted image 20240826095022.png",
-    "_storage/img/Pasted image 20240826095022.jpg"
+    "_storage/img/Pasted image 20240826095022.png"
   ]
 }
