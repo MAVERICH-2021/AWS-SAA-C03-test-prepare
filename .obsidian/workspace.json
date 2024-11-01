@@ -92,8 +92,23 @@
               "icon": "lucide-file",
               "title": "Amazon Athena"
             }
+          },
+          {
+            "id": "3d76a3f7dca1c108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA Samples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAA Samples"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA 101-200.md",
+                "file": "SAA Samples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SAA 101-200"
+              "title": "Backlinks for SAA Samples"
             }
           },
           {
@@ -244,37 +259,38 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2a9caba209f9680b",
+  "active": "9fb9b67e85642d33",
   "lastOpenFiles": [
-    "Services/Amazon API Gateway.md",
+    "Services/VPN 原理.md",
+    "SAA Samples.md",
+    "Services/Kubernetes (K8s).md",
+    "SAA 800 - 900.md",
+    "SAA 350 - 500.md",
     "SAA 101-200.md",
-    "Amazon OpenSearch.md",
-    "Amazon Elasticsearch.md",
-    "AWS Lake Formation.md",
+    "SAA 1-100.md",
+    "Dev 1-100.md",
+    "Services/encrypted in transit and at rest.md",
+    "Services/Amazon Elasticsearch.md",
+    "SAA 981 - 900.md",
+    "_storage/img/Pasted image 20241025175802.png",
+    "Services/RDS Custom.md",
+    "Services/Endpoint.md",
+    "Services/AWS Step Functions.md",
+    "Services/Amazon API Gateway.md",
+    "Services/Amazon OpenSearch.md",
+    "Services/AWS Lake Formation.md",
     "_storage/img/Pasted image 20241027154140.png",
     "Services/AWS Glue.md",
     "Services/Amazon Redshift.md",
-    "Amazon Kinesis.md",
+    "Services/Amazon Kinesis.md",
     "Services/Amazon Athena.md",
     "Services/Amazon QuickSight.md",
     "Services/AWS Control Tower.md",
-    "SAA 981 - 900.md",
     "Services/VPC & Subnet.md",
     "Services/VIF.md",
     "Services/Amazon Kinesis Firehose & Data Stream.md",
-    "Services/Service Control Policies (SCPs).md",
-    "SAA Samples.md",
-    "Services/NAT and NAT Gateway.md",
-    "Services/Fargate.md",
-    "Dev 1-100.md",
-    "Services/ALB & NLB.md",
     "Basic",
-    "Basic/7-layer OSI model.md",
     "Services",
-    "Services/AWS DataSync.md",
-    "Services/AWS Global Accelerator.md",
-    "SAA 1-100.md",
-    "Services/Network ACL.md",
     "_storage/img/Pasted image 20241027145245.png",
     "_storage/img/Pasted image 20241021171356.png",
     "_storage/img/Pasted image 20241021171349.png",
@@ -290,7 +306,6 @@
     "_storage/img/Pasted image 20240905203904.png",
     "_storage/img/apple_support.png",
     "_storage/img/Pasted image 20240905071602.png",
-    "_storage/img/Pasted image 20240826095239.png",
-    "_storage/img/Pasted image 20240826095239.jpg"
+    "_storage/img/Pasted image 20240826095239.png"
   ]
 }
