@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49ce7f0ad4ecec22",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA 1-100.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SAA 1-100"
-            }
-          },
-          {
             "id": "2a9caba209f9680b",
             "type": "leaf",
             "pinned": true,
@@ -38,9 +22,78 @@
               "icon": "lucide-file",
               "title": "SAA 101-200"
             }
+          },
+          {
+            "id": "768f3815ce8b0a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Elasticsearch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazon Elasticsearch"
+            }
+          },
+          {
+            "id": "33644ab3873a8494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon OpenSearch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazon OpenSearch"
+            }
+          },
+          {
+            "id": "49631432d4e63de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services/Amazon Redshift.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazon Redshift"
+            }
+          },
+          {
+            "id": "9675a17dfd6e86bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Kinesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazon Kinesis"
+            }
+          },
+          {
+            "id": "350a70e84f1e4948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Services/Amazon Athena.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amazon Athena"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +227,7 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,51 +246,51 @@
   },
   "active": "2a9caba209f9680b",
   "lastOpenFiles": [
-    "SAA Samples.md",
+    "Services/Amazon API Gateway.md",
     "SAA 101-200.md",
-    "7-layer OSI model.md",
-    "Amazon Redshift.md",
-    "Amazon API Gateway.md",
-    "Network Load Balancer.md",
-    "Fargate.md",
-    "Amazon CloudFront.md",
-    "AWS Global Accelerator.md",
-    "AWS saving plan.md",
+    "Amazon OpenSearch.md",
+    "Amazon Elasticsearch.md",
+    "AWS Lake Formation.md",
+    "_storage/img/Pasted image 20241027154140.png",
+    "Services/AWS Glue.md",
+    "Services/Amazon Redshift.md",
+    "Amazon Kinesis.md",
+    "Services/Amazon Athena.md",
+    "Services/Amazon QuickSight.md",
+    "Services/AWS Control Tower.md",
+    "SAA 981 - 900.md",
+    "Services/VPC & Subnet.md",
+    "Services/VIF.md",
+    "Services/Amazon Kinesis Firehose & Data Stream.md",
+    "Services/Service Control Policies (SCPs).md",
+    "SAA Samples.md",
+    "Services/NAT and NAT Gateway.md",
+    "Services/Fargate.md",
+    "Dev 1-100.md",
+    "Services/ALB & NLB.md",
+    "Basic",
+    "Basic/7-layer OSI model.md",
+    "Services",
+    "Services/AWS DataSync.md",
+    "Services/AWS Global Accelerator.md",
     "SAA 1-100.md",
+    "Services/Network ACL.md",
+    "_storage/img/Pasted image 20241027145245.png",
     "_storage/img/Pasted image 20241021171356.png",
     "_storage/img/Pasted image 20241021171349.png",
     "_storage/img",
     "_storage",
-    "VIF.md",
-    "SAA 981 - 900.md",
-    "Amazon QuickSight.md",
-    "AWS Transit Gateway.md",
-    "AWS Outposts.md",
-    "AWS Batch.md",
-    "AWS App2Container.md",
-    "Amazon EMR.md",
-    "Amazon AppFlow.md",
-    "S3 Glacier Flexible Retrieval.md",
-    "AWS Glue.md",
-    "Untitled.md",
-    "NAT and NAT Gateway.md",
-    "My Qs.md",
-    "VPC & Subnet.md",
     "_storage/key",
     "LibGrow/step-by-step",
     "LibGrow/libs",
     "_storage/Memo",
     "_backup/v0.1/Spring/Java/IO/File",
     "_backup/v0.1/Golang/io/os",
-    "_backup/v0.1/Spring/Java/IO",
-    "_backup/v0.1/Golang/io",
     "_storage/img/Pasted image 20240905212304.png",
     "_storage/img/Pasted image 20240905203904.png",
     "_storage/img/apple_support.png",
     "_storage/img/Pasted image 20240905071602.png",
     "_storage/img/Pasted image 20240826095239.png",
-    "_storage/img/Pasted image 20240826095239.jpg",
-    "_storage/img/Pasted image 20240826095022.png",
-    "_storage/img/Pasted image 20240826095022.jpg"
+    "_storage/img/Pasted image 20240826095239.jpg"
   ]
 }
