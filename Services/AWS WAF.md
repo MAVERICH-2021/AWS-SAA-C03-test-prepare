@@ -2,8 +2,6 @@
     - AWS WAF works at the **application layer (Layer 7)**, inspecting and filtering **HTTP/HTTPS traffic** for web applications through services like **CloudFront, API Gateway, or ALB**.
     - It **cannot block network-level or region-based access** to AWS services such as EC2, RDS, or other backend AWS resources.
     - WAF rules **only apply to web traffic**, not internal AWS API calls or service access at the **account level**.
-- **Incorrect Use Case**:
-    - The statement suggests **blocking access to AWS regions** in the **account settings** using WAF rules, which is not possible with WAF. WAF operates on **web traffic**, not at the **account or region control level**.
 
 
 **AWS WAF (Web Application Firewall)**
@@ -19,7 +17,7 @@ It acts as a layer of defense at the **application level** by filtering and moni
 
 ### b) **Mitigating Distributed Denial of Service (DDoS) Attacks**
 - By setting up **rate-based rules**, AWS WAF can limit the number of requests allowed from a single IP address or network to **throttle potential DDoS attacks**.
-- When integrated with **AWS Shield**, it offers additional DDoS protection for applications.
+- ==When integrated with **AWS Shield**==, it offers additional DDoS protection for applications.
 
 ### c) **Ensuring Regulatory Compliance**
 - AWS WAF helps businesses meet compliance requirements by logging **access requests** and enforcing **security policies**.
