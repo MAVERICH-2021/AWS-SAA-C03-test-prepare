@@ -1,5 +1,6 @@
-> integrated with AWS Shield for DDoS protection.
+Application Layer
 
+> integrated with AWS Shield for DDoS protection.
 
 Amazon CloudFront is a web service that speeds up distribution of your static and dynamic web content
 
