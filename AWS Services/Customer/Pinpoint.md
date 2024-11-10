@@ -1,0 +1,1 @@
+Amazon Pinpoint helps you engage your customers by sending them email, SMS and voice messages, and push notifications. You can use Amazon Pinpoint to send targeted messages (such as promotions and retention campaigns), as well as transactional messages (such as order confirmations and password reset messages).

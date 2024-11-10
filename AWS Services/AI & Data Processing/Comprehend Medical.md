@@ -1,0 +1,1 @@
+detects and returns useful information in unstructured clinical text such as physicians notes, discharge summaries, test results, and case notes. Amazon Comprehend Medical uses natural language processing (NLP) models to detect entities, which are textual references to medical information such as medical conditions, medications, or Protected Health Information (PHI).

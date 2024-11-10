@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/ja_jp/efs/latest/ug/whatisefs.html

@@ -1,0 +1,1 @@
+AWS Direct Connect establishes a ==dedicated== network connection between your ==on-premises network== and ==AWS==. With this connection in place, you can create virtual interfaces directly to the AWS Cloud, bypassing your internet service provider. This can provide a more ==consistent== network experience.

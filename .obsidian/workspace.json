@@ -4,43 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff2ada044d77e671",
+        "id": "196ae724b369fdec",
         "type": "tabs",
         "children": [
           {
-            "id": "2a9caba209f9680b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/SAA 101-350.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SAA 101-350"
-            }
-          },
-          {
-            "id": "068368cab8707bab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAA/SAA 251-350.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "SAA 251-350"
-            }
-          },
-          {
-            "id": "d509bcc82b3f3a56",
+            "id": "093d619755f8a90d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,9 +20,92 @@
               "icon": "lucide-file",
               "title": "SAA 801 - 900"
             }
+          },
+          {
+            "id": "29cc8f4477fdee08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Storage/EFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EFS"
+            }
+          },
+          {
+            "id": "10eb89e41034b439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Networking/VIF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIF"
+            }
+          },
+          {
+            "id": "ce8f8c58bf9c1f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Storage/S3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S3"
+            }
+          },
+          {
+            "id": "944725e33e04ccd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Storage/S3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S3"
+            }
+          },
+          {
+            "id": "d07894fff4d4d1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Notification/EventBridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EventBridge"
+            }
+          },
+          {
+            "id": "59198b744332b768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA/SNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SNS"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ">>>",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAA/SAA 801 - 900.md",
+                "file": "AWS Services/Storage/S3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SAA 801 - 900"
+              "title": "Backlinks for S3"
             }
           },
           {
@@ -145,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAA 101-200.md",
-                "linksCollapsed": false,
+                "file": "AWS Services/Storage/S3.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SAA 101-200"
+              "title": "Outgoing links from S3"
             }
           },
           {
@@ -172,10 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA 101-200.md"
+                "file": "SAA/SAA 801 - 900.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SAA 101-200"
+              "title": "Outline of SAA 801 - 900"
             }
           },
           {
@@ -188,7 +239,8 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,53 +257,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d509bcc82b3f3a56",
+  "active": "093d619755f8a90d",
   "lastOpenFiles": [
-    "SAA/SAA 101-350.md",
-    "SAA/virtual private gateway.md",
-    "Services/AWS Shield.md",
-    "SAA/SAA 251-350.md",
-    "SAA/SAA 651-800.md",
-    "SAA/SAA 501-650.md",
-    "SAA/SAA 351 - 500.md",
-    "SAA/Round-robin load balancing.md",
-    "Services/Amazon CloudFront.md",
-    "Services/CloudFront.md",
-    "Services/AWS WAF.md",
-    "Services/Network ACL.md",
-    "Services/Amazon Inspector.md",
-    "Services/Amazon GuardDuty.md",
-    "Services/Amazon Macie.md",
-    "SAA/SAA 1-100.md",
-    "SAA",
-    "DEV",
-    "SAA/SAA 981 - 901.md",
+    "AWS Services/Cache/CloudFront.md",
     "SAA/SAA 801 - 900.md",
-    "Services/Amazon EC2.md",
-    "Services/Amazon SQS.md",
-    "Services/Amazon Kinesis.md",
-    "Services/AWS Fargate.md",
-    "SAA/SAA Samples.md",
-    "Services/VPN 原理.md",
-    "Services/Kubernetes (K8s).md",
-    "DEV/Dev 1-100.md",
+    "AWS Services/Storage/EFS.md",
+    "AWS Services/Storage/Volumn/EBS.md",
+    "SAA/Route 53.md",
+    "AWS Services/Computing & Host/ASG.md",
+    "AWS Services/Networking/VIF.md",
+    "AWS Services/Storage/S3.md",
+    "AWS Services/Networking/Direct Connect.md",
+    "AWS Services/Notification/EventBridge.md",
+    "SAA/SNS.md",
+    "SAA/SAA 651-800.md",
+    "AWS Services/Networking/Load Balance/Round-robin load balancing.md",
+    "SAA/SAA 101-250.md",
+    "AWS Services/Networking/Gateway Load Balancer.md",
+    "AWS Services/Networking/NAT Gateway.md",
+    "SAA/SAA 981 - 901.md",
+    "SAA/SAA 251-350 (Bypassed).md",
+    "SAA/SAA 351 - 500.md",
+    "SAA/SAA 501-650.md",
+    "SAA/SAA 1-100.md",
+    "SAA/SAA Simulation test.md",
+    "AWS Services/BI & Big Data & Analysis/Redshift.md",
+    "AWS Services/Computing & Host/Batch.md",
+    "AWS Services/Computing & Host/App2Container.md",
+    "AWS Services/Physical/placement group.md",
+    "AWS Services/Physical",
+    "AWS Services/Governing/Budge",
+    "AWS Services/Networking/Load Balance",
+    "AWS Services/Security/Sensitive",
+    "AWS Services/Concept",
+    "AWS Services/Networking/Untitled",
+    "AWS Services/Storage/Volumn",
+    "AWS Services/Storage/Cache",
+    "AWS Services/Customer",
+    "AWS Services/Notification",
+    "_storage/img/Pasted image 20241110124602.png",
     "_storage/img/Pasted image 20241025175802.png",
     "_storage/img/Pasted image 20241027154140.png",
-    "Basic",
-    "Services",
     "_storage/img/Pasted image 20241027145245.png",
     "_storage/img/Pasted image 20241021171356.png",
     "_storage/img/Pasted image 20241021171349.png",
-    "_storage/img",
-    "_storage",
-    "_storage/key",
-    "LibGrow/step-by-step",
-    "LibGrow/libs",
-    "_storage/Memo",
     "_storage/img/Pasted image 20240905212304.png",
     "_storage/img/Pasted image 20240905203904.png",
     "_storage/img/apple_support.png",
-    "_storage/img/Pasted image 20240905071602.png",
-    "_storage/img/Pasted image 20240826095239.png"
+    "_storage/img/Pasted image 20240905071602.png"
   ]
 }

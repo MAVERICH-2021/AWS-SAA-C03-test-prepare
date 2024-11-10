@@ -1,2 +1,0 @@
-GuardDuty is a threat detection service that analyzes events and network traffic to identify potential security
-threats and anomalies. While it can provide insights into potential DDoS attacks, it does not actively prevent or mitigate them.
