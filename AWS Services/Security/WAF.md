@@ -1,3 +1,10 @@
+
+DDoS protection
+- **WAF Role**: Many WAFs provide basic protections against application-layer DDoS attacks, such as a flood of HTTP requests that can overwhelm a web application. These WAFs can detect patterns of abuse (e.g., rapid requests from one or multiple IPs) and block suspicious traffic.
+- **Limitations**: However, WAFs are generally less effective against large-scale network-layer DDoS attacks that target infrastructure itself, such as UDP or SYN floods. For this, **DDoS-specific protection services** are often needed (e.g., Cloudflare, AWS Shield Advanced).
+
+
+
 - **AWS WAF Cannot Restrict Internet Access or Block AWS Regions**:
     - AWS WAF works at the **application layer (Layer 7)**, inspecting and filtering **HTTP/HTTPS traffic** for web applications through services like **CloudFront, API Gateway, or ALB**.
     - It **cannot block network-level or region-based access** to AWS services such as EC2, RDS, or other backend AWS resources.

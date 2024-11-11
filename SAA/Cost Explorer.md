@@ -1,0 +1,4 @@
+With cost allocation tags activated, **Cost Explorer** can be used to view detailed cost breakdowns based on tags. This will allow the company to easily view and filter costs by application and generate the reports on a regular basis (e.g., monthly).
+
+- **Cost Explorer** is a built-in AWS tool that does not require additional infrastructure or manual reporting. It can provide the company with the breakdown of costs associated with different tags in a user-friendly way, and it’s included at no additional charge beyond the usage costs.
+- Once set up, the company can automate reports and regularly track the costs for each application without much ongoing effort.
