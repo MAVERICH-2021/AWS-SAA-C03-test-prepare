@@ -93,3 +93,35 @@ With Fargate, you only need to define the container images, the required CPU and
 ---
 
 AWS Fargate simplifies container management by eliminating the need to manage infrastructure, enabling developers to focus on writing code and building applications. It’s ideal for teams that want the benefits of container orchestration without the operational overhead of managing clusters.
+
+
+# Rightsizing
+
+您提到的**Fargate**确实是**无服务器**的容器管理服务，意味着您不需要管理底层的基础设施。Fargate会根据您定义的任务和服务的资源需求（如CPU和内存）自动配置和分配资源。您通过任务定义指定任务所需的资源，Fargate会根据这些要求提供容器运行环境。
+
+因此，**Fargate的资源分配并不需要像传统的EC2实例那样进行手动设置或优化**，这是与传统虚拟机（VM）或容器的显著区别。您指定资源（如vCPU和内存），然后Fargate根据这些需求进行资源的自动分配。
+
+### 但为什么还需要 "rightsizing"？
+
+尽管Fargate自动为任务分配资源，但有时您可能需要**调整资源配置**，以确保资源被高效使用，尤其是在应用负载波动的情况下。
+
+**Rightsizing**指的是调整您为容器任务配置的CPU和内存值，使其既能满足应用需求，又避免浪费过多的资源。虽然Fargate会自动管理资源的分配，但**"rightsizing"**的目的是优化您为每个任务定义的资源配置，确保不会过度分配或不足分配资源，从而实现成本效益和性能平衡。
+
+### 如何进行Fargate的Rightsizing？
+
+1. **监控性能**: 使用**Amazon CloudWatch**来监控Fargate任务的CPU和内存使用情况。这将帮助您了解任务的资源使用情况，并发现资源是否配置过多或过少。
+   
+2. **自动化调整**: 
+   - 如果发现任务的CPU和内存配置过高，可以降低它们以节省成本。
+   - 如果发现任务的资源配置不足，可以提高它们以避免性能瓶颈。
+
+3. **AWS Compute Optimizer**: 这个工具可以帮助您分析任务的资源需求，并提供优化建议。它可以根据CloudWatch提供的历史性能数据，推荐适合的CPU和内存配置，以避免过度分配和资源浪费。
+
+### 为什么Fargate不需要像EC2那样进行Rightsizing？
+
+- **自动化管理**: Fargate本身会根据任务定义的资源需求自动分配资源。您只需定义任务所需的vCPU和内存，而无需担心底层的计算资源。
+- **弹性扩展**: Fargate任务会根据实际负载自动扩展（尤其是与Auto Scaling结合使用时），从而避免了手动调整资源的问题。
+
+### 总结：
+
+尽管Fargate是无服务器的，资源管理在某种程度上是自动的，但**rightsizing**仍然是一个有效的策略，尤其是在调整任务定义时，以确保在实际负载下资源被高效使用。通过监控和调整，您可以确保Fargate为每个任务分配合适的资源，从而避免浪费资源，同时保证应用性能。
