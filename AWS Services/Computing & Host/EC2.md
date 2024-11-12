@@ -22,3 +22,8 @@ Here’s a breakdown of what an EC2 fleet offers:
    - AWS allows management of the entire fleet as a single unit, simplifying resource handling, monitoring, and billing.
 
 By using a fleet instead of single instances, organizations can balance cost, reliability, and performance, tailoring their resources to match their workload's demands. This setup is commonly used in high-availability applications, large-scale data processing, and dynamic web services.
+
+
+# Schedule
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/scheduled-scaling-create-scheduled-action.html

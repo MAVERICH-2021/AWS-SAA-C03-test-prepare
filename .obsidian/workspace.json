@@ -8,47 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2012dd7890531a9c",
+            "id": "964b6ae2bc8b0069",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/SAA 981 - 901.md",
+                "file": "SAA/SAA 801 - 900.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "SAA 981 - 901"
+              "title": "SAA 801 - 900"
             }
           },
           {
-            "id": "d0af6f2b78804b8b",
+            "id": "8e5a2557ac232be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/Security groups.md",
+                "file": "AWS Services/Governing/Systems Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security groups"
-            }
-          },
-          {
-            "id": "263bafb4b7235e32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Services/Security/WAF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WAF"
+              "title": "Systems Manager"
             }
           }
         ]
@@ -169,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/SAA 981 - 901.md"
+                "file": "SAA/SAA 801 - 900.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SAA 981 - 901"
+              "title": "Outline of SAA 801 - 900"
             }
           },
           {
@@ -203,12 +189,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9fb9b67e85642d33",
+  "active": "964b6ae2bc8b0069",
   "lastOpenFiles": [
+    "AWS Services/Governing/Systems Manager.md",
+    "SAA/SAA 801 - 900.md",
+    "SAA/KMS.md",
+    "AWS Services/Computing & Host/EC2.md",
+    "AWS Services/Storage/Storage Gateway.md",
+    "AWS Services/Storage/EFS.md",
+    "SAA/Backup.md",
+    "AWS Services/Computing & Host/ASG.md",
+    "SAA/SMB.md",
+    "SAA/SAA 981 - 901.md",
+    "AWS Services/Storage/Volumn/EBS.md",
     "新建 文本文档.txt",
     "SAA/Secrets Manager.md",
     "SAA/Latest.md",
-    "SAA/KMS.md",
     "SAA/GWLB.md",
     "SAA/Cost Explorer.md",
     "SAA/Billing and Cost Management.md",
@@ -223,17 +219,8 @@
     "AWS Services/SNS.md",
     "AWS Services/Networking/Route 53.md",
     "AWS Services/Networking/CNI.md",
-    "AWS Services/Networking/ACL.md",
-    "AWS Services/Governing/Tracker/Config.md",
     "AWS Services/Governing/Tracker",
-    "AWS Services/Governing/IAM.md",
-    "AWS Services/Governing/Budge/Compute Optimizer.md",
-    "SAA/Security groups.md",
-    "SAA/SAA 981 - 901.md",
-    "AWS Services/Security/WAF.md",
-    "AWS Services/Security/Solutions/DDoS Preventing.md",
     "AWS Services/Security/Solutions",
-    "SAA/ACL.md",
     "concepts",
     "_storage/img/Pasted image 20241110124602.png",
     "AWS Services/Storage/Volumn",
@@ -241,7 +228,6 @@
     "AWS Services/Storage/Cache",
     "AWS Services/Storage/Backup",
     "AWS Services/Security/Sensitive",
-    "AWS Services/Networking/Load Balance",
     "_storage/img/Pasted image 20241027154140.png",
     "_storage/img/Pasted image 20241027145245.png",
     "_storage/img/Pasted image 20241025175802.png",

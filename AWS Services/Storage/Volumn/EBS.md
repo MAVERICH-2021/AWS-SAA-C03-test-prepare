@@ -5,3 +5,8 @@ Enable sharing at Muiti AZ range
 
 # Volumn types
 https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html
+
+# Snapshot
+## Tier
+### Archive
+https://docs.aws.amazon.com/ebs/latest/userguide/snapshot-archive.html
