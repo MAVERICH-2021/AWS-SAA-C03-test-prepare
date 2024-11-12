@@ -4,21 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "abe8762a30c94781",
+        "id": "694635599670c37a",
         "type": "tabs",
         "children": [
           {
-            "id": "10438b15be6a156f",
+            "id": "2012dd7890531a9c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAA/SAA 981 - 901.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "SAA 981 - 901"
+            }
+          },
+          {
+            "id": "d0af6f2b78804b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/SAA 801 - 900.md",
+                "file": "SAA/Security groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAA 801 - 900"
+              "title": "Security groups"
+            }
+          },
+          {
+            "id": "263bafb4b7235e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Services/Security/WAF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WAF"
             }
           }
         ]
@@ -52,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Services/Storage/S3.md",
+                "file": "Amazon EMR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S3"
+              "title": "Backlinks for Amazon EMR"
             }
           },
           {
@@ -112,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Services/Storage/S3.md",
-                "linksCollapsed": true,
+                "file": "Amazon EMR.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S3"
+              "title": "Outgoing links from Amazon EMR"
             }
           },
           {
@@ -139,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAA/SAA 801 - 900.md"
+                "file": "SAA/SAA 981 - 901.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SAA 801 - 900"
+              "title": "Outline of SAA 981 - 901"
             }
           },
           {
@@ -173,48 +203,48 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10438b15be6a156f",
+  "active": "9fb9b67e85642d33",
   "lastOpenFiles": [
-    "SAA/SAA 981 - 901.md",
-    "SAA/KMS.md",
+    "新建 文本文档.txt",
     "SAA/Secrets Manager.md",
-    "AWS Services/Storage/Aurora.md",
+    "SAA/Latest.md",
+    "SAA/KMS.md",
     "SAA/GWLB.md",
     "SAA/Cost Explorer.md",
     "SAA/Billing and Cost Management.md",
-    "SAA/SAA 801 - 900.md",
-    "SAA/SAA 1-100.md",
-    "SAA/Latest.md",
-    "TODO.md",
-    "AWS Services/Security groups.md",
-    "AWS Services/SSO.md",
-    "AWS Services/Savings Plan.md",
-    "SAA/Systems Manager Parameter Store.md",
-    "AWS Services/Governing/IAM.md",
-    "AWS Services/Governing/Tracker/Config.md",
-    "AWS Services/Governing/Tracker",
+    "AWS Services/service account.md",
+    "AWS Services/Storage/Aurora.md",
+    "AWS Services/Security/Auth/OIDC.md",
     "AWS Services/Security/Auth/IRSA.md",
     "AWS Services/Security/Auth",
-    "AWS Services/Governing/Systems Manager.md",
+    "AWS Services/Security groups.md",
+    "AWS Services/Savings Plan.md",
+    "AWS Services/SSO.md",
+    "AWS Services/SNS.md",
+    "AWS Services/Networking/Route 53.md",
     "AWS Services/Networking/CNI.md",
     "AWS Services/Networking/ACL.md",
-    "AWS Services/Security/Auth/OIDC.md",
-    "AWS Services/service account.md",
-    "AWS Services/SNS.md",
-    "concepts/Basic.md",
+    "AWS Services/Governing/Tracker/Config.md",
+    "AWS Services/Governing/Tracker",
+    "AWS Services/Governing/IAM.md",
     "AWS Services/Governing/Budge/Compute Optimizer.md",
+    "SAA/Security groups.md",
+    "SAA/SAA 981 - 901.md",
+    "AWS Services/Security/WAF.md",
+    "AWS Services/Security/Solutions/DDoS Preventing.md",
     "AWS Services/Security/Solutions",
-    "AWS Services/Physical",
-    "AWS Services/Governing/Budge",
-    "AWS Services/Networking/Load Balance",
-    "AWS Services/Security/Sensitive",
-    "AWS Services/Concept",
-    "AWS Services/Networking/Untitled",
-    "AWS Services/Storage/Volumn",
+    "SAA/ACL.md",
+    "concepts",
     "_storage/img/Pasted image 20241110124602.png",
-    "_storage/img/Pasted image 20241025175802.png",
+    "AWS Services/Storage/Volumn",
+    "AWS Services/Storage/Migrate & Sync",
+    "AWS Services/Storage/Cache",
+    "AWS Services/Storage/Backup",
+    "AWS Services/Security/Sensitive",
+    "AWS Services/Networking/Load Balance",
     "_storage/img/Pasted image 20241027154140.png",
     "_storage/img/Pasted image 20241027145245.png",
+    "_storage/img/Pasted image 20241025175802.png",
     "_storage/img/Pasted image 20241021171356.png",
     "_storage/img/Pasted image 20241021171349.png",
     "_storage/img/Pasted image 20240905212304.png",
